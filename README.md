@@ -1,6 +1,3 @@
-# Introduction 
- 
-
 # Getting Started
 
 1.	Installation process
