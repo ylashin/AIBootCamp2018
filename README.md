@@ -1,6 +1,6 @@
 # Getting Started
 
-1.	Installation process
+1.	Instal needed Python packages
     ```
     pip install --upgrade azureml-sdk[notebooks,automl]
     pip install azureml-explain-model
